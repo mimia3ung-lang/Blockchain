@@ -6,7 +6,7 @@
 **Student ID:** 25293849  
 **University:** Auckland University of Technology (AUT)  
 
-This repository contains the Python source code used for **Exercises 1, 2 and 3** of the COMP842 Individual Technical Assessment Portfolio.
+This repository contains the Python source code used for exercises of the COMP842 Individual Technical Assessment Portfolio.
 
 The exercises cover:
 
